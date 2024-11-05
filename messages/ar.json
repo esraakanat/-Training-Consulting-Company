@@ -1,0 +1,282 @@
+{
+  "Services": {
+    "Life Coaching": "كوتشنج الحياة",
+    "Guidance for achieving personal growth, balance, and fulfillment": "إرشادات لتحقيق النمو الشخصي، التوازن، والإشباع.",
+    "Relationship Coaching": "كوتشنج العلاقات",
+    "Strengthening interpersonal relationships and communication skills": "تعزيز العلاقات الشخصية ومهارات الاتصال.",
+    "Marriage Coaching": "كوتشنج الزواج",
+    "Support for couples to improve their marriage and relationship": "دعم للأزواج لتحسين زواجهم وعلاقتهم.",
+    "Career Coaching": " الكوتشنج المهني",
+    "Career development and performance enhancement support": "دعم لتطوير المهارات وتحسين الأداء في المهنة.",
+    "Executive Coaching": "كوتشنج التنفيذيين",
+    "Leadership development and strategic support for executives": "تطوير القيادة والدعم الاستراتيجي للتنفيذيين.",
+    "Team Development Programs": "برامج تطوير الفرق ",
+    "Tailored programs for team development and improving work culture": "برامج مخصصة لتطوير الفريق وتحسين ثقافة العمل.",
+    "Sales Coaching": "كوتشنج المبيعات",
+    "Training to enhance sales skills and improve performance": "تدريب لتعزيز مهارات المبيعات وتحسين الأداء.",
+    "Performance Coaching": "كوتشنج الأداء",
+    "Support for enhancing performance and achieving goals": "دعم لتحسين الأداء وتحقيق الأهداف.",
+    "Effective Communication Coaching": "تدريب الاتصال الفعال",
+    "Training to enhance clarity and effectiveness in communication": "تدريب لتحسين الوضوح وفعالية الاتصال.",
+    "Mental Health & Well-being Workshops": "ورش العمل للصحة النفسية ",
+    "Programs focused on improving mental health and well-being in the workplace": "برامج تركز على تحسين الصحة النفسية والرفاهية في مكان العمل.",
+    "Financial Coaching": "الكوتشنج المالي",
+    "Guidance and training to improve financial literacy and management": "إرشادات وتدريب لتحسين الثقافة المالية والإدارة.",
+    "Emotional Intelligence Testing and Development": "اختبارات قياس و تطوير الذكاء العاطفي ",
+    "Comprehensive evaluations to improve emotional intelligence": "تقييمات شاملة لتحسين الذكاء العاطفي.",
+    "Research and Workplace Analytics": " البحوثات الخاصة في تحليل بيئة العمل   ",
+    "In-depth research and analytics to improve workplace efficiency and culture": "بحث وتحليلات متعمقة لتحسين كفاءة مكان العمل وثقافته.",
+    "Business": "الأعمال",
+    "Individual": "الأفراد",
+    "Our Services": "خدماتنا"
+  },
+  "Hero": {
+    "Unlock Your Potential": "تمكّن",
+    "At SAAED, our mission is to empower individuals and organizations by providing expert guidance and support through our diverse range of services and research initiatives": "في ساعد، مهمتنا هي تمكين الأفراد والمنظمات من خلال تقديم التوجيه والدعم للمتخصصين عبر مجموعة متنوعة من الخدمات والمبادرات البحثية.",
+    "Book Now": "احجز الآن"
+  },
+  "WhyUs": {
+    "Coaching": "الكوتشينج",
+    "Consulting": "الاستشارات",
+    "Custom Solutions": "حلول مخصصة",
+    "Why Choose Us?": "لماذا نحن؟",
+    "We offer bespoke coaching and consulting solutions tailored to your unique needs, delivering exceptional value through customized programs": "نقدم حلول تدريب واستشارات مصممة خصيصًا لتلبية احتياجاتك الفريدة، ونوفر قيمة استثنائية من خلال برامج مخصصة.",
+    "We empower you with tools and strategies needed for success, ensuring our services are as unique and effective as the organizations we support": "نمكنك من خلال الأدوات والاستراتيجيات اللازمة للنجاح، مما يضمن أن تكون خدماتنا فريدة وفعالة مثل المنظمات التي ندعمها.",
+    "Our mission is to empower you with the tools and strategies needed for success, ensuring our services are as unique and effective as the organizations we support": "نقدم حلول مصممة خصيصًا لتتناسب مع الإحتياجات الفريدة لكل كيان نخدمه من خلال إنشاء برامج مخصصة تعالج تحديات وأهدافًا محددة.",
+    "We work closely with businesses, government agencies, and other organizations to develop products that align perfectly with your requirements": "نعمل عن كثب مع الشركات والمؤسسات الحكومية والمنظمات الأخرى لتطوير منتجات تتماشى تمامًا مع متطلباتك."
+  },
+  "Nums": {
+    "Certified": "الإعتماد",
+    "All trainers at Saaed are certified by the International Coaching Federation (ICF)": "جميع المدربين في ساعد معتمدين من الاتحاد الدولي للتدريب (ICF).",
+    "Experienced": "الخبرة ",
+    "Our trainers have over 10 years of experience in the field of coaching": "مدربونا لديهم أكثر من 10 سنوات من الخبرة في مجال التدريب.",
+    "Effective": "الفعالية",
+    "Our coaching programs are designed to help you achieve your goals and improve your performance": "برامجنا التدريبية مصممة لمساعدتك على تحقيق أهدافك وتحسين أدائك."
+  },
+  "Sectors": {
+    "Sectors We Serve": "القطاعات التي نخدمها",
+    "Education": "التعليم",
+    "We provide educational solutions and support": "نقدم حلولًا ودعمًا تعليميًا.",
+    "Healthcare and Pharmaceuticals": "الرعاية الصحية والأدوية",
+    "We serve the healthcare and pharmaceutical sectors": "نخدم قطاعات الرعاية الصحية والأدوية.",
+    "Information Technology": "تكنولوجيا المعلومات",
+    "We offer IT services and solutions": "نقدم خدمات وحلول تكنولوجيا المعلومات.",
+    "Food, Tourism, and Hospitality": "الأطعمة والسياحة والضيافة",
+    "We work with the food, tourism, and hospitality industries": "نعمل مع صناعات الأطعمة والسياحة والضيافة.",
+    "Startups": "الشركات الناشئة",
+    "We support startups in their growth and development": "ندعم الشركات الناشئة في نموها وتطورها.",
+    "Charities, Clinics, and Psychiatric Centers": "الجمعيات الخيرية والعيادات والمراكز النفسية",
+    "We assist charities, clinics, and psychiatric centers": "نساعد الجمعيات الخيرية والعيادات والمراكز النفسية.",
+    "Women's Empowerment Institutions and Centers": "مؤسسات ومراكز تمكين المرأة",
+    "We empower women through various institutions and centers": "نمكن المرأة من خلال مختلف المؤسسات والمراكز."
+  },
+  "StillConfused": {
+    "Still confused?": "ما زلت محتارًا؟",
+    "Take your free test now!": "قم بإجراء الاختبار المجاني الآن!",
+    "This assessment is designed to help you identify the type of coaching that best suits your needs Please answer the following questions honestly At the end of the test, you will receive a recommendation based on your answers": "هذا التقييم مصمم لمساعدتك في تحديد نوع التدريب الذي يناسب احتياجاتك بشكل أفضل. يرجى الإجابة على الأسئلة التالية بصدق. في نهاية الاختبار، ستتلقى توصية بناءً على إجاباتك.",
+    "Go to Test": "اذهب للاختبار"
+  },
+  "Footer": {
+    "SAAED is a coaching and consulting firm based in Saudi Arabia, dedicated to empowering organizations and individuals through expert guidance and support Our team of certified coaches, recognized by the International Coaching Federation (ICF), offers a comprehensive suite of services tailored to meet diverse needs of businesses and governmental agencies": "ساعد هي شركة تدريب واستشارات مقرها المملكة العربية السعودية، مكرسة لتمكين المنظمات والأفراد من خلال التوجيه والدعم المتخصص. يقدم فريقنا من المدربين المعتمدين  من قبل الاتحاد الدولي للتدريب (ICF)، مجموعة شاملة من الخدمات المصممة لتلبية الاحتياجات المتنوعة للشركات والمؤسسات الحكومية و الأفراد.",
+    "12329 Laysen Valley, Riyadh, Saudi Arabia": "12329 وادي ليسن، الرياض، المملكة العربية السعودية"
+  },
+  "Navbar": {
+    "Home": "الرئيسية",
+    "Contact Us": "اتصل بنا"
+  },
+  "Contact": {
+    "Contact Us": "اتصل بنا",
+    "Name": "الاسم",
+    "Email": "البريد الإلكتروني",
+    "Phone": "الهاتف",
+    "Message": "الرسالة",
+    "Send": "إرسال",
+    "Sending": "جاري الإرسال...",
+    "Your message has been sent": "تم إرسال رسالتك بنجاح!",
+    "Failed to send email:": " فشل في إرسال البريد الإلكتروني:"
+  },
+
+  "Booking": {
+    "Government and Public Sector": "مؤسسة حكومية",
+    "Government Agencies": "الوكالات الحكومية",
+    "Municipalities": "البلديات",
+    "Public Service Organizations": "منظمات الخدمة العامة",
+    "Regulatory Bodies": "الهيئات التنظيمية",
+    "Education": "التعليم",
+    "Schools (Primary, Secondary, Higher Education)": "المدارس (ابتدائي، ثانوي، تعليم عالي)",
+    "Universities and Colleges": "الجامعات والكليات",
+    "Educational Institutions and Training Centers": "المؤسسات التعليمية ومراكز التدريب",
+    "Healthcare and Medicine": "الطب والرعاية الصحية",
+    "Hospitals": "المستشفيات",
+    "Medical Clinics": "العيادات الطبية",
+    "Health and Wellness Centers": "مراكز الصحة والعافية",
+    "Pharmaceutical Companies": "شركات الأدوية",
+    "Information Technology (IT)": "تكنولوجيا المعلومات (IT)",
+    "Software Development Firms": "شركات تطوير البرمجيات",
+    "IT Consulting Companies": "شركات استشارات تكنولوجيا المعلومات",
+    "Tech Startups": "الشركات التقنية الناشئة",
+    "Data Analytics Firms": "شركات تحليل البيانات",
+    "Sales Teams": "فرق المبيعات",
+    "Corporate Sales Departments": "إدارات المبيعات في الشركات",
+    "Retail Sales Teams": "فرق مبيعات التجزئة",
+    "B2B Sales Organizations": "منظمات مبيعات الشركات للشركات",
+    "Customer Experience and Servicing": "  خدمة العملاء",
+    "Customer Service Departments": "إدارات خدمة العملاء",
+    "Call Centers": "مراكز الاتصال",
+    "Customer Experience Management Firms": "شركات إدارة تجربة العملاء",
+    "Finance and Banking": "التمويل والمصرفية",
+    "Banks and Financial Institutions": "البنوك والمؤسسات المالية",
+    "Insurance Companies": "شركات التأمين",
+    "Investment Firms": "شركات الاستثمار",
+    "Accounting and Audit Firms": "شركات المحاسبة والتدقيق",
+    "Aviation and Air Transport Management": "إدارة الطيران والنقل الجوي",
+    "Airlines": "شركات الطيران",
+    "Airport Management Firms": "شركات إدارة المطارات",
+    "Aviation Training Centers": "مراكز تدريب الطيران",
+    "Aircraft Maintenance Companies": "شركات صيانة الطائرات",
+    "Food and Beverage": "الأغذية والمشروبات",
+    "Restaurants and Cafes": "المطاعم والمقاهي",
+    "Food Manufacturing Companies": "شركات تصنيع الأغذية",
+    "Catering Services": "خدمات التموين",
+    "Food Retailers and Distributors": "بائعي التجزئة وموزعي الأغذية",
+    "Tourism and Hospitality": "السياحة والضيافة",
+    "Hotels and Resorts": "الفنادق والمنتجعات",
+    "Travel Agencies": "وكالات السفر",
+    "Tour Operators": "منظمو الجولات السياحية",
+    "Event Planning Companies": "شركات تنظيم الفعاليات",
+    "Retail and Consumer Goods": "التجزئة والسلع الاستهلاكية",
+    "Retail Chains and Stores": "سلاسل ومحلات التجزئة",
+    "E-commerce Businesses": "شركات التجارة الإلكترونية",
+    "Consumer Goods Manufacturers": "مصنعي السلع الاستهلاكية",
+    "Fashion and Apparel Companies": "شركات الموضة والملابس",
+    "Real Estate": "العقار",
+    "Real Estate Agencies": "وكالات العقارات",
+    "Property Management Firms": "شركات إدارة الممتلكات",
+    "Construction Companies": "شركات البناء",
+    "Real Estate Developers": "مطورو العقارات",
+    "Manufacturing and Industrial": "الصناعة ",
+    "Manufacturing Plants": "مصانع التصنيع",
+    "Industrial Equipment Companies": "شركات المعدات الصناعية",
+    "Automotive Manufacturers": "مصنعي السيارات",
+    "Electronics and Electrical Goods Companies": "شركات الإلكترونيات والأجهزة الكهربائية",
+    "Legal and Professional Services": "الخدمات القانونية والمهنية",
+    "Law Firms": "مكاتب المحاماة",
+    "Consulting Firms": "شركات الاستشارات",
+    "Accounting Firms": "شركات المحاسبة",
+    "Marketing and Advertising Agencies": "وكالات التسويق والإعلان",
+    "Nonprofit and Charitable Organizations": "المنظمات غير الربحية والخيرية",
+    "Charities": "الجمعيات الخيرية",
+    "Non-Governmental Organizations (NGOs)": "المنظمات غير الحكومية",
+    "Social Enterprises": "المؤسسات الاجتماعية",
+    "Foundations": "المؤسسات",
+    "Energy and Utilities": "الطاقة والمرافق",
+    "Oil and Gas Companies": "شركات النفط والغاز",
+    "Renewable Energy Firms": "شركات الطاقة المتجددة",
+    "Utility Providers": "مزودو المرافق",
+    "Energy Consulting Firms": "شركات استشارات الطاقة",
+    "Media and Entertainment": "الوسائط والترفيه",
+    "Media Production Companies": "شركات إنتاج الوسائط",
+    "Broadcasting Companies": "شركات البث",
+    "Publishing Houses": "دور النشر",
+    "Entertainment Venues": "أماكن الترفيه",
+    "Transportation and Logistics": "النقل واللوجستيات",
+    "Logistics and Freight Companies": "شركات الخدمات اللوجستية والشحن",
+    "Transportation Services": "خدمات النقل",
+    "Shipping and Delivery Companies": "شركات الشحن والتوصيل",
+    "Warehousing and Distribution Firms": "شركات التخزين والتوزيع",
+    "Agriculture and Agribusiness": "الزراعة والأعمال الزراعية",
+    "Farming Operations": "عمليات الزراعة",
+    "Agribusiness Companies": "شركات الأعمال الزراعية",
+    "Food Processing Firms": "شركات معالجة الأغذية",
+    "Sports and Recreation": "الرياضة والترفيه",
+    "Sports Teams and Clubs": "فرق وأندية الرياضة",
+    "Fitness Centers": "مراكز اللياقة البدنية",
+    "Recreational Facilities": "المنشآت الترفيهية",
+    "Sports Management Firms": "شركات إدارة الرياضة",
+    "Telecommunications": "الاتصالات",
+    "Telecom Service Providers": "مزودي خدمات الاتصالات",
+    "Mobile Network Operators": "مشغلي شبكات المحمول",
+    "Internet Service Providers": "مزودي خدمات الإنترنت",
+    "Telecommunication Equipment Manufacturers": "مصنعي معدات الاتصالات",
+    "Institutions of Research": "المؤسسات البحثية",
+    "Research Institutes": "معاهد البحث",
+    "Academic Research Centers": "مراكز البحث الأكاديمية",
+    "Corporate R&D Departments": "أقسام البحث والتطوير في الشركات",
+    "Other": "أخرى",
+    "Briefly describe your company's core activities and services:": "صف بإيجاز الأنشطة والخدمات الأساسية لشركتك:",
+    "What are the main challenges your company is currently facing?": "ما هي التحديات الرئيسية التي تواجهها شركتك حالياً؟",
+    "Are there specific goals you wish to achieve through our services?": "هل هناك أهداف محددة ترغب في تحقيقها من خلال خدماتنا؟",
+    "Riyadh": "الرياض",
+    "Jeddah": "جدة",
+    "Dammam": "الدمام",
+    "Khobar": "الخبر",
+    "Mecca": "مكة",
+    "Medina": "المدينة",
+    "Dhahran": "الظهران",
+    "Taif": "الطائف",
+    "Buraidah": "بريدة",
+    "Hufuf": "الهفوف",
+    "Abha": "أبها",
+    "Najran": "نجران",
+    "Jubail": "الجبيل",
+    "Khamis Mushait": "خميس مشيط",
+    "Al Qatif": "القطيف",
+    "Al Hasa": "الأحساء",
+    "Al Baha": "الباحة",
+    "Yamb": "ينبع",
+    "Jizan": "جازان",
+    "Rafha": "رفحاء",
+    "Hail": "حائل",
+    "UAE": "الإمارات",
+    "Qatar": "قطر",
+    "Oman": "عمان",
+    "Bahrain": "البحرين",
+    "Kuwait": "الكويت",
+    "other:": "أخرى:",
+    "Other City": "مدينة أخرى",
+    "GCC Countries": "دول مجلس التعاون ",
+    "Relationship coaching": "تدريب العلاقات",
+    "Life coaching": "تدريب الحياة",
+    "Business coaching": "تدريب الأعمال",
+    "Career coaching": "تدريب المهنة",
+    "Child coaching": "تدريب الأطفال",
+    "Individual": "أفراد",
+    "Business": "أعمال",
+    "Name:": "الاسم:",
+    "Name": "الاسم",
+    "Email:": "البريد الإلكتروني:",
+    "Email": "البريد الإلكتروني",
+    "Telephone:": "الهاتف:",
+    "Telephone": "الهاتف",
+    "Coaching Type:": "نوع  الجلسة:",
+    "Coaching Type": "نوع التدريب",
+    "Select Coaching Type": "اختر نوع الجلسة",
+    "Preferred Date:": "التاريخ المفضل:",
+    "Message:": "الرسالة:",
+    "Company Name:": "اسم الشركة:",
+    "Industry:": "المجال:",
+    "Select Industry": "اختر المجال",
+    "This field is required": "هذا الحقل مطلوب",
+    "Other Industry": "صناعة أخرى",
+    "Select City": "اختر المدينة",
+    "City:": "المدينة:",
+    "Select Country": "اختر البلد",
+    "Country:": "البلد",
+    "Website:": "الموقع الإلكتروني:",
+    "Email Address:": "عنوان البريد الإلكتروني:",
+    "Email is required": "البريد الإلكتروني مطلوب",
+    "Entered value does not match email format": "القيمة المدخلة لا تتطابق مع تنسيق البريد الإلكتروني",
+    "Submit": "إرسال",
+    "Get Started": "ابدأ",
+    "Booking Form": "نموذج الحجز",
+    "Company Name": "اسم الشركة",
+    "Phone:": "الهاتف:",
+    "Form submitted successfully 🎉\n Saeed team will contact you soon!": "تم تقديم الطلب بنجاح 🎉\n سيتواصل فريق سعيد معك قريباً!",
+    "Failed to submit the form, please try again later": "فشل في تقديم الطلب، يرجى المحاولة مرة أخرى لاحقًا",
+    "Website is required": "الموقع الإلكتروني مطلوب",
+    "Phone is required": "الهاتف مطلوب",
+    " Answer to question 1 is required": "الإجابة على السؤال 1 مطلوبة",
+    " Answer to question 2 is required": "الإجابة على السؤال 2 مطلوبة",
+    " Answer to question 3 is required": "الإجابة على السؤال 3 مطلوبة"
+  }
+}
